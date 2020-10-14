@@ -6,6 +6,7 @@
 
 # Dataset 
 - https://www.kaggle.com/weslayton/2019-statcast-pitching-summary?select=2019_statcast_summary_2.csv
+
 We plan to use the “2019 Statcast Pitching Summary” dataset from Kaggle.com. After finding a few different datasets, we decided that this one was the best for this project. The dataset contains every pitcher who had pitched in the 2019 season, along with all their different pitch types, plus their speed and spin effect on the baseball. We are using the 2019 dataset for two reasons. The first being because of COVID19. Due to this virus, multiple players have opted to sit out like star pitcher David Price of the Los Angeles Dodgers. The second being because the 2020 dataset is not complete, due to the season not being over.
 
 # What Needs To Be Done To Get A Great Grade
