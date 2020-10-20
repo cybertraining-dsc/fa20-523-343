@@ -5,10 +5,10 @@ Doctors have large caseloads and are not always able to complete medical records
 
 # AI Technologies
 There are many different AI technologies that are being used to reduce errors and save lives. Some of these technologies are:
-  * ### Pathai ### is a deep learning technology that assists pathologists in making more accurate diagnoses regarding cancer [2].
-  *	### Buoy Health ### is a chatbot that uses algorithms to diagnose illnesses and recommend treatment [3].
-  *	### Enlitic ### is another deep learning technology that uses data to make medical diagnostics. This technology gives doctors a “better insight into a patient’s real-time data” [1] by pairing doctors with data scientists and engineers to make diagnostics sooner and more accurate [4].
-  *	### Freenome ### is a biotechnology company that uses AI to detect cancer in its earliest stages. They do this by using algorithms that look at medical screenings and blood work to help detect patterns in cancer patients [5].
+  * **Pathai** is a deep learning technology that assists pathologists in making more accurate diagnoses regarding cancer [2].
+  *	**Buoy Health** is a chatbot that uses algorithms to diagnose illnesses and recommend treatment [3].
+  *	**Enlitic** is another deep learning technology that uses data to make medical diagnostics. This technology gives doctors a “better insight into a patient’s real-time data” [1] by pairing doctors with data scientists and engineers to make diagnostics sooner and more accurate [4].
+  *	**Freenome** is a biotechnology company that uses AI to detect cancer in its earliest stages. They do this by using algorithms that look at medical screenings and blood work to help detect patterns in cancer patients [5].
 
 Artificial intelligence is a powerful tool that is providing more accurate diagnostics at a faster rate with less error than the previous ways. 
 
