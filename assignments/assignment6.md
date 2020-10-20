@@ -14,7 +14,11 @@ Artificial intelligence is a powerful tool that is providing more accurate diagn
 
 # References
 [1] Delay, Sam. “32 Examples of AI In Healtchare That Will Make You Feel Better About The Future” (July 29, 2020). https://builtin.com/artificial-intelligence/artificial-intelligence-healthcare  
+
 [2] “What we do” (2020). https://www.pathai.com/what-we-do/
+
 [3] “Here’s how Buoy works” (2020). https://www.buoyhealth.com/how-it-works
+
 [4] “Who we are” (2019). https://www.enlitic.com/ 
+
 [5] “Decoding the means to cancer’s end” (2019). https://www.freenome.com/about-f 
