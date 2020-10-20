@@ -1,10 +1,12 @@
 # Predictive Model For Pitches Thrown By Major League Baseball Pitchers
+Bryce Wieczorek, fa20-523-343
 
-- [ ] please use our template
-- [ ] please learn markdown, urls, sections ...
-- [ ] please add refernces
+## Abstract
+{{< talbeof_contents >}}
 
-Bryce Wieczorek
+{{% /pageinfo %}}
+
+## Introduction 
 
 
 ## Dataset 
@@ -16,3 +18,5 @@ We plan to use the “2019 Statcast Pitching Summary” dataset from Kaggle.com.
 ## What Needs To Be Done To Get A Great Grade
 
 To get a great grade we believe that we will have to create my own prediction model by analyzing the different pitch types, their speeds, and the spin rate of the baseball according to the pitch type. When comparing this data to pitches thrown in game, we believe that we would be able to find what type of pitch was thrown. we will also have to find and compare my own prediction model to any others that are in existence. We believe that this will be good to compare to see if these other prediction models to gain insight to other methods for this research process. Along with this, we will have to evaluate for efficiency and account for limitations. For efficiency, this will let me know how accurate my prediction model is. we must account for limitations in my prediction model, for instance, the pitcher may not always throw the baseball at a consistent velocity. We need to also account for new pitchers who have not pitched in the MLB, or pitchers who have “new” pitches. The last thing we could do and perhaps the most important thing we should do is work on this project in increments. We should plan my project out accordingly and not cram it all together last second.
+
+## References
