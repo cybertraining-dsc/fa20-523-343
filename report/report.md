@@ -2,7 +2,7 @@
 
 Bryce Wieczorek, fa20-523-343
 
-- [ ] please follwo page template
+- [ ] please follow page template
 
 ## Abstract
 
