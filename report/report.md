@@ -1,10 +1,10 @@
 # Predictive Model For Pitches Thrown By Major League Baseball Pitchers
+
 Bryce Wieczorek, fa20-523-343
 
-## Abstract
-{{< talbe_of_contents >}}
+- [ ] please follwo page template
 
-{{% /pageinfo %}}
+## Abstract
 
 ## Introduction 
 
