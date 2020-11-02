@@ -2,8 +2,6 @@
 
 Bryce Wieczorek, [fa20-523-343](https://github.com/cybertraining-dsc/fa20-523-343), [Edit](https://github.com/cybertraining-dsc/fa20-523-343/blob/master/report/report.md)
 
-- [ ] please follow page template
-
 {{% pageinfo %}}
 
 ## Abstract
