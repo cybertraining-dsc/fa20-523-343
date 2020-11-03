@@ -15,7 +15,7 @@ Contents
 
 {{% /pageinfo %}}
 
-**Keywords:** 
+**Keywords:** Pitch type, release speed, release spin, baseball
 
 
 ## 1. Introduction 
