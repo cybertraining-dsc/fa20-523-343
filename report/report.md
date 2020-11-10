@@ -61,15 +61,15 @@ In order to create our model, we examined several other models that were similar
 
 ## 8 Referneces
 
-[^1]: http://m.mlb.com/glossary/statcast 
+[^1]: 2020. About Statcast. MLB Advanced Media. http://m.mlb.com/glossary/statcast 
 
-[^2]: https://technology.mlblogs.com/mlb-ground-truth-testing-ec87c73450b9 
+[^2]: Nunnally, Clay. 2019. MLB Ground Truth Testing. Medium. https://technology.mlblogs.com/mlb-ground-truth-testing-ec87c73450b9 
 
-[^3]: https://technology.mlblogs.com/mlb-pitch-classification-64a1e32ee079 
+[^3]: Sharpe, Sam. 2020. MLB Pitch Classification. Medium. https://technology.mlblogs.com/mlb-pitch-classification-64a1e32ee079 
 
-[^4]: https://technology.mlblogs.com/using-clustering-algorithms-to-identify-distinct-pitcher-release-points-6ca0f72c270 
+[^4]: Borland, Max. 2020. Using Clustering Algorithms to Identify Distinct Pitcher Release Points. Medium. https://technology.mlblogs.com/using-clustering-algorithms-to-identify-distinct-pitcher-release-points-6ca0f72c270 
 
-[^5]: https://www.mlb.com/news/mlb-technology-updates-for-2020 
+[^5]: Morosi, Jon Paul. 2020. Technological updates for season revealed. MLB Advanced Media. https://www.mlb.com/news/mlb-technology-updates-for-2020 
 
 [^6]: Plunkett, Ryan. 2019. Pitch Type Prediction in Major League Baseball. Bachelor's thesis, Harvard College. https://dash.harvard.edu/handle/1/37364634 
 
