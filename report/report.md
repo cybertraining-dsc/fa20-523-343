@@ -15,7 +15,7 @@ Contents
 
 {{% /pageinfo %}}
 
-**Keywords:** Pitch type, release speed, release spin, baseball, pitchers
+**Keywords:** Pitch type, release speed, release spin, baseball, pitchers, MLB
 
 
 ## 1 Introduction 
@@ -63,7 +63,7 @@ Since we do not need all the data Statcast collects, we found a dataset with the
 
 The author would like to thank Dr. Gregor Von Laszewski, Dr. Geoffrey Fox, and the associate instructors in the *FA20-BL-ENGR-E534-11530: Big Data Applications* course (offered in the Fall 2020 semester at Indiana University, Bloomington) for their continued assistance and suggestions with regard to exploring this idea and also for their aid with preparing the various drafts of this article.
 
-## 8 Referneces
+## 8 References
 
 [^1]: 2020. About Statcast. MLB Advanced Media. http://m.mlb.com/glossary/statcast 
 
