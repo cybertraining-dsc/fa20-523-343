@@ -41,9 +41,11 @@ In order to create our model, we examined several other models that were similar
   Plan to talk about Statcast
   
 
-## 3 Choice of Data-sets
+## 3 Dataset
 
-  Talk about the dataset we decided to use
+Major League Baseball first started using Statcast in 2015, after a successful trial run in 2014. Statcast [^1] provided the MLB with a way to collect and analyze huge amounts of data in real time. Some of the data it collects, which relates to our model, includes the pitcher’s name, pitch type, release spin, and release speed. While it does look at many other aspects of the game, we are focusing primarily on these statistics to draw our conclusions.
+
+Since we do not need all the data Statcast collects, we found a dataset with the datatypes listed above [^8]. This dataset contains the average statistics for each pitch thrown by every player who had pitched in any MLB game in 2019.  
 
 ## 4 Our project
 
@@ -74,3 +76,5 @@ In order to create our model, we examined several other models that were similar
 [^6]: Plunkett, Ryan. 2019. Pitch Type Prediction in Major League Baseball. Bachelor's thesis, Harvard College. https://dash.harvard.edu/handle/1/37364634 
 
 [^7]: Sidle, Glenn. 2017. Using Multi-Class Classification Methods to Predict Baseball Pitch Types. North Carolina State University. https://projects.ncsu.edu/crsc/reports/ftp/pdf/crsc-tr17-10.pdf 
+
+[^8]: Layton, Wes. 2019. Statcast Pitching Summary. Kaggle. https://www.kaggle.com/weslayton/2019-statcast-pitching-summary?select=2019_statcast_summary_2.csv
