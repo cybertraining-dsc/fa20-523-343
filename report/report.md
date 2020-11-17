@@ -65,18 +65,18 @@ The author would like to thank Dr. Gregor Von Laszewski, Dr. Geoffrey Fox, and t
 
 ## 8 References
 
-[^1]: 2020. About Statcast. MLB Advanced Media. http://m.mlb.com/glossary/statcast 
+[^1]: [2020. About Statcast. MLB Advanced Media. <http://m.mlb.com/glossary/statcast> 
 
-[^2]: Nunnally, Clay. 2019. MLB Ground Truth Testing. Medium. https://technology.mlblogs.com/mlb-ground-truth-testing-ec87c73450b9 
+[^2]: Nunnally, Clay. 2019. MLB Ground Truth Testing. Medium. <https://technology.mlblogs.com/mlb-ground-truth-testing-ec87c73450b9>
 
-[^3]: Sharpe, Sam. 2020. MLB Pitch Classification. Medium. https://technology.mlblogs.com/mlb-pitch-classification-64a1e32ee079 
+[^3]: Sharpe, Sam. 2020. MLB Pitch Classification. Medium. <https://technology.mlblogs.com/mlb-pitch-classification-64a1e32ee079>
 
-[^4]: Borland, Max. 2020. Using Clustering Algorithms to Identify Distinct Pitcher Release Points. Medium. https://technology.mlblogs.com/using-clustering-algorithms-to-identify-distinct-pitcher-release-points-6ca0f72c270 
+[^4]: Borland, Max. 2020. Using Clustering Algorithms to Identify Distinct Pitcher Release Points. Medium. <https://technology.mlblogs.com/using-clustering-algorithms-to-identify-distinct-pitcher-release-points-6ca0f72c270> 
 
-[^5]: Morosi, Jon Paul. 2020. Technological updates for season revealed. MLB Advanced Media. https://www.mlb.com/news/mlb-technology-updates-for-2020 
+[^5]: Morosi, Jon Paul. 2020. Technological updates for season revealed. MLB Advanced Media. <https://www.mlb.com/news/mlb-technology-updates-for-2020> 
 
-[^6]: Plunkett, Ryan. 2019. Pitch Type Prediction in Major League Baseball. Bachelor's thesis, Harvard College. https://dash.harvard.edu/handle/1/37364634 
+[^6]: Plunkett, Ryan. 2019. Pitch Type Prediction in Major League Baseball. Bachelor's thesis, Harvard College. <https://dash.harvard.edu/handle/1/37364634> 
 
-[^7]: Sidle, Glenn. 2017. Using Multi-Class Classification Methods to Predict Baseball Pitch Types. North Carolina State University. https://projects.ncsu.edu/crsc/reports/ftp/pdf/crsc-tr17-10.pdf 
+[^7]: Sidle, Glenn. 2017. Using Multi-Class Classification Methods to Predict Baseball Pitch Types. North Carolina State University. <https://projects.ncsu.edu/crsc/reports/ftp/pdf/crsc-tr17-10.pdf> 
 
-[^8]: Layton, Wes. 2019. Statcast Pitching Summary. Kaggle. https://www.kaggle.com/weslayton/2019-statcast-pitching-summary?select=2019_statcast_summary_2.csv
+[^8]: Layton, Wes. 2019. Statcast Pitching Summary. Kaggle. <https://www.kaggle.com/weslayton/2019-statcast-pitching-summary?select=2019_statcast_summary_2.csv>
