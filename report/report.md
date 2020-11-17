@@ -6,7 +6,7 @@ Bryce Wieczorek, [fa20-523-343](https://github.com/cybertraining-dsc/fa20-523-34
 
 ## Abstract
 
-With the introduciton of technology into sports, data scientists are sliding headfirst into Major League Baseball. With the introduction of Statcast in 2015, The MLB has been looking at different ways to use technology in the game. In 2020 alone, the MLB introduce several different types of technologies to keep the fans engaged with the games while not being able to attend them. In this paper, we will be exploring a predictive model to claffiy pitches thrown by each pitcher in the MLB. We will be using a database that includes the release speed, the release spin, and the pitch type. With this information, we can compare collected data to determine the pitch type thrown by looking at the recorded spin and speed of the ball.
+With the introduciton of technology into sports, data scientists are sliding headfirst into Major League Baseball. And with the introduction of Statcast in 2015, The MLB has been looking at different ways to use technology in the game. In 2020 alone, the MLB introduce several different types of technologies to keep the fans engaged with the games while not being able to attend them. In this paper, we will be exploring a predictive model to claffiy pitches thrown by each pitcher in the MLB. We will be using a database that includes the release speed, the release spin, and the pitch type. With this information, we can compare collected data to determine the pitch type thrown by looking at the recorded spin and speed of the ball. This is done by using live data compared to a smaller version of our dataset, filtered data according to who is pitching.
 
 
 Contents
