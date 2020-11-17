@@ -82,4 +82,4 @@ The author would like to thank Dr. Gregor Von Laszewski, Dr. Geoffrey Fox, and t
 
 [^8]: Layton, Wes. 2019. Statcast Pitching Summary. Kaggle. <https://www.kaggle.com/weslayton/2019-statcast-pitching-summary?select=2019_statcast_summary_2.csv>
 
-[^9] Nathan, Alan M. Tracking Baseballs Using Video Technology: The PITCHf/x, HITf/x, and FIELDf/x Systems. < http://baseball.physics.illinois.edu/pitchtracker.html>
+[^9] Nathan, Alan M. Tracking Baseballs Using Video Technology: The PITCHf/x, HITf/x, and FIELDf/x Systems. <http://baseball.physics.illinois.edu/pitchtracker.html>
