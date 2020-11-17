@@ -55,15 +55,11 @@ Since our dataset has the average of each statistic, we plan on comparing, we de
 
 While our dataset contained statistics to every player who threw a pitch in the 2019 season, we first decided to narrow the amount of data down to only look at the player who was pitching at the time. This will allow our algorithm to work faster and more efficiently as it will not be determining who the pitcher is. The next thing that our model would be doing, is using the data collected from live Statcast reporting and comparing that data to the data in our dataset. This will then predict what type of pitch was just thrown by the pitcher. 
 
-## 5 Evaluation
+## 5 Conclusion
 
   This will be completed after part 4
 
-## 6 Conclusion
-
-  This will be completed after part 4
-
-## 7 Acknowledgements
+## 6 Acknowledgements
 
 The author would like to thank Dr. Gregor Von Laszewski, Dr. Geoffrey Fox, and the associate instructors in the *FA20-BL-ENGR-E534-11530: Big Data Applications* course (offered in the Fall 2020 semester at Indiana University, Bloomington) for their continued assistance and suggestions with regard to exploring this idea and also for their aid with preparing the various drafts of this article.
 
