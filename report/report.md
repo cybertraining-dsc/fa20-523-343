@@ -28,13 +28,13 @@ While there is a lot of data about pitching, we will only be focusing on release
 
 In order to create our model, we examined several other models that were similar to ours. This allowed us to simplify our problem of predicting pitches and develop a blueprint to solve the matter. We compared several existing models to determine the types of data and methods that were most commonly used to implement into our own model. 
 
-### 2.1
+### 2.1 Harvard College Model
 
 The first prediction model we studied was done through Harvard University [^6]. This prediction model was very complex and explored many different types of analysis. They first investigated doing a binary classification model. However, they ultimately decided against this because the label of pitches did not accurately represent what they actual were. This led them into multi-class predictive models in which they used. They used many different types of analysis, some of which included different types of trees, linear discriminant analysis, and vector machines. In this report, they recreated many different types of published work, but they failed at each one. So in the end, they attempted to create their own model that worked. 
 
 We took this advice and decided that we would not try to replicate an already existing model. This way we would be able to use the data and models that we have selected and planned to use. Also, to determine if our model would work and if it would be reasonable to use in future works. 
 
-### 2.2 
+### 2.2 North Carolina State University Model
 
 The prediction model created by North Carolina State University [^7] was creating to predict the next pitch that was going to be thrown. While this is predicting something different than what we are predicting, the model is similar to what we are trying to create.
 
