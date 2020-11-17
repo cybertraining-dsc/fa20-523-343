@@ -40,10 +40,6 @@ The prediction model created by North Carolina State University [^7] was creatin
 
 Their model compares old data to the current live data of a game, they are using many different types of data to predict the next type of pitch. They are trying to determine if the next pitch will be a fastball or an off-speed pitch. Like the previously mentioned model, this model is also using trees to give a classification output. The parent node is the first type of pitch thrown, which then leads to if the pitch was a strike or a ball, then it uses this information and compares it to their dataset to predict the next set of nodes.
 
-### 2.3 
-
-  Plan to talk about Statcast
-
 ## 3. Dataset
 
 Major League Baseball first started using Statcast in 2015, after a successful trial run in 2014. Statcast [^1] provided the MLB with a way to collect and analyze huge amounts of data in real time. Some of the data it collects, which relates to our model, includes the pitcher’s name, pitch type, release spin, and release speed. While it does look at many other aspects of the game, we are focusing primarily on these statistics to draw our conclusions.
@@ -60,7 +56,7 @@ While our dataset contained statistics to every player who threw a pitch in the 
 
 ## 5. Conclusion
 
-  This will be completed after part 4
+While our model is a very simple and noncomplex as the models we reviewed, we expect it to work. Even though we did not write a program to determine so. Statcast would be the biggest contributor to our work. Statcast has provided our dataset and the data we would need to make our prediction model work. Although it does already predict what our model is trying to do, we feel as if it is still important test if their model is 100% effect. For future work we plan on implementing our model into a program to test if it works. And if so, determine how accurate it is to Statcast in live situations. 
 
 ## 6. Acknowledgements
 
