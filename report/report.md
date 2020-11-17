@@ -1,6 +1,6 @@
 # Predictive Model For Pitches Thrown By Major League Baseball Pitchers
 
-Bryce Wieczorek, [fa20-523-343](https://github.com/cybertraining-dsc/fa20-523-343), [Edit](https://github.com/cybertraining-dsc/fa20-523-343/blob/master/report/report.md)
+Bryce Wieczorek, [fa20-523-343](https://github.com/cybertraining-dsc/fa20-523-343), [Edit](https://github.com/cybertraining-dsc/fa20-523-343/blob/main/report/report.md)
 
 {{% pageinfo %}}
 
