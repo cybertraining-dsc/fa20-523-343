@@ -30,16 +30,19 @@ In order to create our model, we examined several other models that were similar
 
 ### 2.1
 
-  Plan to talk about the Harvard Model
+The first prediction model we studied was done through Harvard University [^6]. This prediction model was very complex and explored many different types of analysis. They first investigated doing a binary classification model. However, they ultimately decided against this because the label of pitches did not accurately represent what they actual were. This led them into multi-class predictive models in which they used. They used many different types of analysis, some of which included different types of trees, linear discriminant analysis, and vector machines. In this report, they recreated many different types of published work, but they failed at each one. So in the end, they attempted to create their own model that worked. 
+
+We took this advice and decided that we would not try to replicate an already existing model. This way we would be able to use the data and models that we have selected and planned to use. Also, to determine if our model would work and if it would be reasonable to use in future works. 
 
 ### 2.2 
 
-  Plan to talk about the NCSU Model
+The prediction model created by North Carolina State University [^7] was creating to predict the next pitch that was going to be thrown. While this is predicting something different than what we are predicting, the model is similar to what we are trying to create.
+
+Their model compares old data to the current live data of a game, they are using many different types of data to predict the next type of pitch. They are trying to determine if the next pitch will be a fastball or an off-speed pitch. Like the previously mentioned model, this model is also using trees to give a classification output. The parent node is the first type of pitch thrown, which then leads to if the pitch was a strike or a ball, then it uses this information and compares it to their dataset to predict the next set of nodes.
 
 ### 2.3 
 
   Plan to talk about Statcast
-  
 
 ## 3. Dataset
 
