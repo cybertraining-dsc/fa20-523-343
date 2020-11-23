@@ -1,6 +1,7 @@
 # Predictive Model For Pitches Thrown By Major League Baseball Pitchers
 
 - [ ] Please use our template
+- [ ] Progress is unclear. It is even unclear if this is a report or a project. For a report no deep analysis is done and it includes tstements that one can think this is a project. For a project refernces to programming are missing.
 
 Bryce Wieczorek, [fa20-523-343](https://github.com/cybertraining-dsc/fa20-523-343), [Edit](https://github.com/cybertraining-dsc/fa20-523-343/blob/main/report/report.md)
 
