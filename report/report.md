@@ -39,15 +39,15 @@ There are several existing models that have been made to predict pitch type. We 
 
 ### 2.1 Harvard College Model
 
-The first prediction model we studied was done through Harvard University [^6]. This prediction model was very complex and explored many different types of analysis. They first investigated doing a binary classification model. However, they ultimately decided against this because the label of pitches did not accurately represent what they actual were. This led them into multi-class predictive models in which they used. They used many different types of analysis, some of which included different types of trees, linear discriminant analysis, and vector machines. In this report, they recreated many different types of published work, but they failed at each one. So in the end, they attempted to create their own model that worked. 
+The first prediction model we studied was done through Harvard University [^6]. This prediction model was very complex and explored many different types of analysis. They first investigated doing a binary classification model. However, they ultimately decided against this because the label of pitches did not accurately represent what they actual were. This led them into multi-class predictive models in which they used. The other types of analysis were boosted trees, classification trees, random forests, linear discriminant analysis, and vector machines. The main point of this report was to see if they could replicate previous work done, but they ultimately failed at each one. This resulted to them in trying to determine if one can correctly predict pitch type selection. There research showed that machine learning cannot correctly predict pitch type due to the many different aspects that need to be analyzed. They hoped that their work could be used as a reference for future work done. 
 
-We took this advice and decided that we would not try to replicate an already existing model. This way we would be able to use the data and models that we have selected and planned to use. Also, to determine if our model would work and if it would be reasonable to use in future works. 
+We found this article to be very useful in our work since it stands as a reference for future work. We found this to be helpful in our review of predictive models for pitch types due to the different models they tried to replicate. 
 
 ### 2.2 North Carolina State University Model
 
-The prediction model created by North Carolina State University [^7] was creating to predict the next pitch that was going to be thrown. While this is predicting something different than what we are predicting, the model is similar to what we are trying to create.
+The prediction model created by North Carolina State University [^7] was created to predict the next pitch that was going to be thrown. Their model compared old data to the current live data of a game, they are using many different types of data to predict the next type of pitch. They used a very large database that consisted of 287 MLB pitchers who had an average of 81 different pitch features (pitch type, ball rotation, speed, etc.). They are trying to determine if the next pitch will be a fastball or an off-speed pitch. Like the previously mentioned model, this model is also using trees to give a classification output. The parent node is the first type of pitch thrown, which then leads to if the pitch was a strike or a ball, then it uses this information and compares it to their dataset to predict the next set of nodes.
 
-Their model compares old data to the current live data of a game, they are using many different types of data to predict the next type of pitch. They are trying to determine if the next pitch will be a fastball or an off-speed pitch. Like the previously mentioned model, this model is also using trees to give a classification output. The parent node is the first type of pitch thrown, which then leads to if the pitch was a strike or a ball, then it uses this information and compares it to their dataset to predict the next set of nodes.
+We found this to be very useful for our review since their model worked correctly and it used current data from the game. With Statcast today, we find this to be very important since all of this information is recorded and logged as each pitch is thrown.
 
 ## 3. Dataset
 
@@ -55,7 +55,7 @@ Major League Baseball first started using Statcast in 2015, after a successful t
 
 Since we do not need all the data Statcast collects, we found a dataset with the datatypes listed above [^8]. This dataset contains the average statistics for each pitch thrown by every player who had pitched in any MLB game in 2019. However, we feel as if we need to include Statcast data from the year before and possibly the year before that. This way we can account for players who had to sit out the 2019 season due to injury and/or suspension.   
 
-## 4. Methodology
+## 4. Search and Analysis
 
 In order to build an accurate model to predict which pitch was just thrown. By examining the models mentioned in section 3, we determined that the best predictive model for us to use was to use a similarity analysis model. This model allows us to take old data and compare it to the live data of the pitch. By comparing the live data to the older data, we should be able to determine which pitch type was just thrown. We then can compare our results to the results from Statcast to determine the efficiency of our model. 
 
