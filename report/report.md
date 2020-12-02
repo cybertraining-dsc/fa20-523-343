@@ -1,8 +1,5 @@
 # Predictive Model For Pitches Thrown By Major League Baseball Pitchers
 
-- [ ] Please use our template
-- [ ] Progress is unclear. It is even unclear if this is a report or a project. For a report no deep analysis is done and it includes tstements that one can think this is a project. For a project refernces to programming are missing.
-
 Bryce Wieczorek, [fa20-523-343](https://github.com/cybertraining-dsc/fa20-523-343), [Edit](https://github.com/cybertraining-dsc/fa20-523-343/blob/main/report/report.md)
 
 {{% pageinfo %}}
@@ -53,7 +50,7 @@ We found this to be very useful for our review since their model worked correctl
 
 Major League Baseball first started using Statcast in 2015, after a successful trial run in 2014. Statcast [^1] provided the MLB with a way to collect and analyze huge amounts of data in real time. Some of the data it collects, which relates to our model, includes the pitcher’s name, pitch type, release spin, and release speed. While it does look at many other aspects of the game, we are focusing primarily on these statistics to draw our conclusions.
 
-Since we do not need all the data Statcast collects, we found a dataset with the datatypes listed above [^8]. This dataset contains the average statistics for each pitch thrown by every player who had pitched in any MLB game in 2019. However, we feel as if we need to include Statcast data from the year before and possibly the year before that. This way we can account for players who had to sit out the 2019 season due to injury and/or suspension.   
+Since we do not need all the data Statcast collects, we found a dataset with the datatypes listed above [^8]. This dataset contains the average statistics for each pitch thrown by every player who had pitched in any MLB game in 2019. However, we feel as if we need to include Statcast data from the year before and possibly the year before that. This way we can account for players who had to sit out the 2019 season due to injury and/or suspension.
 
 ## 4. Search and Analysis
 
