@@ -72,11 +72,7 @@ The author would like to thank Dr. Gregor Von Laszewski, Dr. Geoffrey Fox, and t
 
 [^1]: [2020. About Statcast. MLB Advanced Media. <http://m.mlb.com/glossary/statcast> 
 
-[^2]: Nunnally, Clay. 2019. MLB Ground Truth Testing. Medium. <https://technology.mlblogs.com/mlb-ground-truth-testing-ec87c73450b9>
-
 [^3]: Sharpe, Sam. 2020. MLB Pitch Classification. Medium. <https://technology.mlblogs.com/mlb-pitch-classification-64a1e32ee079>
-
-[^4]: Borland, Max. 2020. Using Clustering Algorithms to Identify Distinct Pitcher Release Points. Medium. <https://technology.mlblogs.com/using-clustering-algorithms-to-identify-distinct-pitcher-release-points-6ca0f72c270> 
 
 [^5]: Morosi, Jon Paul. 2020. Technological updates for season revealed. MLB Advanced Media. <https://www.mlb.com/news/mlb-technology-updates-for-2020> 
 
@@ -84,6 +80,6 @@ The author would like to thank Dr. Gregor Von Laszewski, Dr. Geoffrey Fox, and t
 
 [^7]: Sidle, Glenn. 2017. Using Multi-Class Classification Methods to Predict Baseball Pitch Types. North Carolina State University. <https://projects.ncsu.edu/crsc/reports/ftp/pdf/crsc-tr17-10.pdf> 
 
-[^8]: Layton, Wes. 2019. Statcast Pitching Summary. Kaggle. <https://www.kaggle.com/weslayton/2019-statcast-pitching-summary?select=2019_statcast_summary_2.csv>
+[^8]: Schale, Paul. 2020. MLB Pitch Data 2015-2018. Kaggle https://www.kaggle.com/pschale/mlb-pitch-data-20152018
 
 [^9]: Nathan, Alan M. Tracking Baseballs Using Video Technology: The PITCHf/x, HITf/x, and FIELDf/x Systems. <http://baseball.physics.illinois.edu/pitchtracker.html>
