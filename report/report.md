@@ -48,9 +48,9 @@ We found this to be very useful for our review since their model worked correctl
 
 ## 3. Dataset
 
-Major League Baseball first started using Statcast in 2015, after a successful trial run in 2014. Statcast [^1] provided the MLB with a way to collect and analyze huge amounts of data in real time. Some of the data it collects, which relates to our model, includes the pitcher’s name, pitch type, release spin, and release speed. While it does look at many other aspects of the game, we are focusing primarily on these statistics to draw our conclusions.
+Major League Baseball first started using Statcast in 2015, after a successful trial run in 2014. Statcast [^1] provided the MLB with a way to collect and analyze huge amounts of data in real time. Some of the data it collects, which is used in many different models, includes the pitcher’s name, pitch type, release spin, release speed, and the amount of times each pitch was thrown. 
 
-Since we do not need all the data Statcast collects, we found a dataset with the datatypes listed above [^8]. This dataset contains the average statistics for each pitch thrown by every player who had pitched in any MLB game in 2019. However, we feel as if we need to include Statcast data from the year before and possibly the year before that. This way we can account for players who had to sit out the 2019 season due to injury and/or suspension.
+Since we do not need all the data Statcast collects, we found a dataset with the datatypes listed above [^8]. I chose this dataset because it contains a significant amount of data that can be used for a prediction model. The dataset contains a lot of information about not only the pitchers, but about the batters. The database shows what each batter has done against every type of pitch they have faced, whether they hit the ball, fouled it, swung and missed, etc. We felt as if this data is very important as well since coaches and pitchers will want to know how the batter reacts to different pitches and the different locations of each pitch. This would be a vital part to any pitch prediction model as coaches signal to the pitchers what types of pitches to throw according the strengths and weaknesses of the batters.
 
 ## 4. Search and Analysis
 
