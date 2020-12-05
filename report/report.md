@@ -60,7 +60,7 @@ The similarity analysis tool model would best be used to find instances of the b
 
 ## 5. Limitations
 
-There are several limitations to predictive models for pitch types [^2]. he biggest is pitch classification itself. Pitchers ultimately pick what types of pitches they throw and as some pitches behave like others, different pitchers can classify the same pitch type as something else. For example, the traditional curve ball and a knuckle curve react the same. Other classification challenges that can be faced can be related to how the pitcher is playing. As the game goes on, pitcher’s velocities traditionally decrease due to their arms tiring, this could result in misidentification between different types of fastballs. The last limitation that could affect the pitch classification could be the PITCHf/x system malfunctioning or interference with the system.
+There are several limitations to predictive models for pitch types [^2]. The biggest is pitch classification itself. Pitchers ultimately pick what types of pitches they throw and as some pitches behave like others, different pitchers can classify the same pitch type as something else. For example, the traditional curve ball and a knuckle curve react the same. Other classification challenges that can be faced can be related to how the pitcher is playing. As the game goes on, pitcher’s velocities traditionally decrease due to their arms tiring, this could result in misidentification between different types of fastballs. The last limitation that could affect the pitch classification could be the PITCHf/x system malfunctioning or interference with the system.
 
 ## 6. Conclusion
 
