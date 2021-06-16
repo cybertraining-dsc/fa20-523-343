@@ -1,4 +1,14 @@
-# Predictive Model For Pitches Thrown By Major League Baseball Pitchers
+---
+date: 2021-03-15
+title: Predictive Model For Pitches Thrown By Major League Baseball Pitchers
+linkTitle: Baseball
+tags: ["report", "ai", "sports"]
+description: Predictive Model For Pitches Thrown By Major League Baseball Pitchers
+author: Bryce Wieczorek
+resources:
+- src: "**.{png,jpg}"
+  title: "Image #:counter"
+---
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-343/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-343/actions) 
 [![Status](https://github.com/cybertraining-dsc/fa20-523-343/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-343/actions)
