@@ -15,7 +15,6 @@ resources:
 [![Status](https://github.com/cybertraining-dsc/fa20-523-343/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-343/actions)
 Status: final, Type: report
 
-
 Bryce Wieczorek, [fa20-523-343](https://github.com/cybertraining-dsc/fa20-523-343), [Edit](https://github.com/cybertraining-dsc/fa20-523-343/blob/main/report/report.md)
 
 {{% pageinfo %}}
