@@ -5,6 +5,7 @@ linkTitle: Baseball
 tags: ["report", "ai", "sports"]
 description: "The topic of this review is how big data analysis is used in a predictive model for classifying what pitches are going to be thrown next. Baseball is a pitcher’s game, as they can control the tempo. Pitchers have to decide what type of pitch they want to throw to the batter based on how their statistics compare to that of the batters. They need to know what the batter struggles to hit against, and where in the strike zone they struggle the most. With the introduction of technology into sports, data scientists are sliding headfirst into Major League Baseball. And with the introduction of Statcast in 2015, The MLB has been looking at different ways to use technology in the game. In 2020 alone, the MLB introduce several different types of technologies to keep the fans engaged with the games while not being able to attend them [^3]. In this paper, we will be exploring a predictive model to determine pitches thrown by each pitcher in the MLB. We will be reviewing several predictive models to understand how this can be done with the use of big data."
 author: Bryce Wieczorek
+github_url: https://github.com/cybertraining-dsc/fa20-523-343/edit/main/report/report.md
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"
